@@ -296,15 +296,6 @@ passwd
 ```
 
 Set and confirmed a password for the root administrator account.
-Password characters were hidden during entry.
-
-## 16. Set the root password
-
-```bash
-passwd
-```
-
-Set and confirmed a password for the root administrator account.
 The terminal hid the password while typing and confirmed
 `password updated successfully`.
 
